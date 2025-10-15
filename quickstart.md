@@ -126,7 +126,3 @@ pytest test_pipeline_monitor.py -v
 # Run specific test
 pytest test_pipeline_monitor.py::TestRecoverySuccess -v
 ```
-
-## Next Steps
-
-1. **Integrate with your monitoring**: Add the API to your dashboar
